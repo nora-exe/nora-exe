@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Nora</h1>
-<h3 align="center">a full-stack web developer passionate about quality</h3>
+<h3 align="center">a full-stack web developer</h3>
 
 🌱 I’m currently finishing my education **at Lambda School**
 
@@ -13,6 +13,10 @@
 
 <br>
 
+<p align="right"><a href="https://github-spotify-status.vercel.app/now-playing?open">
+<img src="https://github-spotify-status.vercel.app/now-playing" width="400" height="150" alt="Now Playing">
+</a></p>
+
 ## My Values
 
 🌐 Communication
@@ -22,19 +26,6 @@
 🌱 Growth mindset
 
 <br>
-
-## Media
-
-🟢 Listening on [Spotify](https://open.spotify.com/user/anoraborealis)
-
-⬜ Living on [Instagram](https://www.instagram.com/an0rab0realis/)
-
-💜 Loving on [Discord](https://discordapp.com/users/683851776235274262)
-
-<a href="https://github-spotify-status.vercel.app/now-playing?open">
-<img src="https://github-spotify-status.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
-
 
 <p align="center">
 <a href="https://twitter.com/noco_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noco_exe" height="30" width="40" /></a>
