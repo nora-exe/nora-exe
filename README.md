@@ -13,7 +13,8 @@
 
 <br>
 
-<p align="right"><a href="https://github-spotify-status.vercel.app/now-playing?open">
+<p align="right">🟢 Listening on <a href="https://open.spotify.com/user/anoraborealis/playlists">Spotify</a>
+<br><a href="https://github-spotify-status.vercel.app/now-playing?open">
 <img src="https://github-spotify-status.vercel.app/now-playing" width="400" height="150" alt="Now Playing">
 </a></p>
 
