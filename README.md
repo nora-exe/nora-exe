@@ -1,19 +1,34 @@
 <h1 align="center">Hi 👋 I'm Nora</h1>
 <h3 align="center">a full-stack web developer passionate about quality</h3>
 
-- 🌱 I’m currently a student **at Lambda School**
+🌱 I’m currently finishing my education **at Lambda School**
 
-- 🧠 I’m currently building **technical project management skills**
+🧠 I’m currently building **technical project management skills**
 
-- 🚀 Upcoming goals: **Ruby, Sass, Vue.js**
+💡 Favorite productivity tool: [Notion](https://www.notion.so/guides/what-is-notion)
 
-- 💬 Ask me about **my top 5 video games**
+🚀 Upcoming goals: **Ruby, Sass, Vue.js, Unity**
 
-- 🟢 Listening on [Spotify](https://open.spotify.com/user/anoraborealis)
+💬 Ask me about **my top 5 video games**
 
-- ⬜ Living on [Instagram](https://www.instagram.com/an0rab0realis/)
+<br>
 
-- 💜 Loving on [Discord](https://discordapp.com/users/683851776235274262)
+## My Values
+
+🌐 Communication
+
+🙏 Authenticity 
+
+🌱 Growth mindset
+
+<!-- <br>
+
+🟢 Listening on [Spotify](https://open.spotify.com/user/anoraborealis)
+
+⬜ Living on [Instagram](https://www.instagram.com/an0rab0realis/)
+
+💜 Loving on [Discord](https://discordapp.com/users/683851776235274262) -->
+
 
 <p align="center">
 <a href="https://twitter.com/noco_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noco_exe" height="30" width="40" /></a>
