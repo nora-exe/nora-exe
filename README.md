@@ -11,8 +11,6 @@
 
 💬 Ask me about **my top 5 video games**
 
-<br>
-
 <p align="right">🟢 Listening on <a href="https://open.spotify.com/user/anoraborealis/playlists">Spotify</a>
 <br><a href="https://github-spotify-status.vercel.app/now-playing?open">
 <img src="https://github-spotify-status.vercel.app/now-playing" width="400" height="150" alt="Now Playing">
@@ -25,8 +23,6 @@
 🙏 Authenticity 
 
 🌱 Growth mindset
-
-<br>
 
 <p align="center">
 <a href="https://twitter.com/noco_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noco_exe" height="30" width="40" /></a>
