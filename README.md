@@ -21,13 +21,19 @@
 
 🌱 Growth mindset
 
-<!-- <br>
+<br>
+
+## Media
 
 🟢 Listening on [Spotify](https://open.spotify.com/user/anoraborealis)
 
 ⬜ Living on [Instagram](https://www.instagram.com/an0rab0realis/)
 
-💜 Loving on [Discord](https://discordapp.com/users/683851776235274262) -->
+💜 Loving on [Discord](https://discordapp.com/users/683851776235274262)
+
+<a href="https://github-spotify-status.vercel.app/now-playing?open">
+<img src="https://github-spotify-status.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
 
 
 <p align="center">
