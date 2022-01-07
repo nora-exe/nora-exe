@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm Nora</h1>
 <h3 align="center">a full-stack web developer</h3>
 
-🌱 I’m currently finishing my education **at Lambda School**
+⭐ I recently graduated from **Lambda School** (now BloomTech)
 
-🧠 I’m currently building **technical project management skills**
+🌱 I'm currently working on an Animal Crossing: New Horizons companion app for educational & personal use!
 
 💡 Favorite productivity tool: [Notion](https://www.notion.so/guides/what-is-notion)
 
